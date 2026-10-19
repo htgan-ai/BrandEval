@@ -1,0 +1,17 @@
+{"agent_id": "template_perf_support", "agent_type": "consumer", "personality": {"driver": "性能导向", "initial_stance": "支持者"}, "initial_influence_score": 1.0}
+{"agent_id": "template_perf_neutral", "agent_type": "consumer", "personality": {"driver": "性能导向", "initial_stance": "中立"}, "initial_influence_score": 0.9}
+{"agent_id": "template_perf_opponent", "agent_type": "consumer", "personality": {"driver": "性能导向", "initial_stance": "反对者"}, "initial_influence_score": 0.8}
+{"agent_id": "template_value_support", "agent_type": "consumer", "personality": {"driver": "价值导向", "initial_stance": "支持者"}, "initial_influence_score": 1.0}
+{"agent_id": "template_value_neutral", "agent_type": "consumer", "personality": {"driver": "价值导向", "initial_stance": "中立"}, "initial_influence_score": 0.9}
+{"agent_id": "template_value_opponent", "agent_type": "consumer", "personality": {"driver": "价值导向", "initial_stance": "反对者"}, "initial_influence_score": 0.8}
+{"agent_id": "template_experience_support", "agent_type": "consumer", "personality": {"driver": "体验导向", "initial_stance": "支持者"}, "initial_influence_score": 1.0}
+{"agent_id": "template_experience_neutral", "agent_type": "consumer", "personality": {"driver": "体验导向", "initial_stance": "中立"}, "initial_influence_score": 0.9}
+{"agent_id": "template_experience_opponent", "agent_type": "consumer", "personality": {"driver": "体验导向", "initial_stance": "反对者"}, "initial_influence_score": 0.8}
+{"agent_id": "template_social_support", "agent_type": "consumer", "personality": {"driver": "社会认同导向", "initial_stance": "支持者"}, "initial_influence_score": 1.0}
+{"agent_id": "template_social_neutral", "agent_type": "consumer", "personality": {"driver": "社会认同导向", "initial_stance": "中立"}, "initial_influence_score": 0.9}
+{"agent_id": "template_social_opponent", "agent_type": "consumer", "personality": {"driver": "社会认同导向", "initial_stance": "反对者"}, "initial_influence_score": 0.8}
+{"agent_id": "template_practical_support", "agent_type": "consumer", "personality": {"driver": "实用/安全导向", "initial_stance": "支持者"}, "initial_influence_score": 1.0}
+{"agent_id": "template_practical_neutral", "agent_type": "consumer", "personality": {"driver": "实用/安全导向", "initial_stance": "中立"}, "initial_influence_score": 0.9}
+{"agent_id": "template_practical_opponent", "agent_type": "consumer", "personality": {"driver": "实用/安全导向", "initial_stance": "反对者"}, "initial_influence_score": 0.8}
+{"agent_id": "competitor_A", "agent_type": "competitor", "personality": {"strategy_archetype": "防御者 (The Defender)"}}
+{"agent_id": "competitor_B", "agent_type": "competitor", "personality": {"strategy_archetype": "分析者 (The Analyzer)"}}

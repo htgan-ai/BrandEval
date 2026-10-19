@@ -1,0 +1,25 @@
+{
+  "codes": {
+    "R": {
+      "description": "随机分配15种用户人格（5驱动×3立场）",
+      "mode": "random"
+    }
+  },
+  "archetypes": [
+    {"driver": "价值导向", "stance": "支持者"},
+    {"driver": "价值导向", "stance": "中立"},
+    {"driver": "价值导向", "stance": "反对者"},
+    {"driver": "性能导向", "stance": "支持者"},
+    {"driver": "性能导向", "stance": "中立"},
+    {"driver": "性能导向", "stance": "反对者"},
+    {"driver": "体验导向", "stance": "支持者"},
+    {"driver": "体验导向", "stance": "中立"},
+    {"driver": "体验导向", "stance": "反对者"},
+    {"driver": "社会认同导向", "stance": "支持者"},
+    {"driver": "社会认同导向", "stance": "中立"},
+    {"driver": "社会认同导向", "stance": "反对者"},
+    {"driver": "实用/安全导向", "stance": "支持者"},
+    {"driver": "实用/安全导向", "stance": "中立"},
+    {"driver": "实用/安全导向", "stance": "反对者"}
+  ]
+}

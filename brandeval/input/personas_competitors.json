@@ -1,0 +1,14 @@
+{
+  "codes": {
+    "D": {"persona": "defender", "description": "防御者"},
+    "A": {"persona": "analyzer", "description": "分析者"},
+    "P": {"persona": "prospector", "description": "探索者"},
+    "R": {"persona": "reactor", "description": "反应者"}
+  },
+  "personas": [
+    {"persona": "defender"},
+    {"persona": "analyzer"},
+    {"persona": "prospector"},
+    {"persona": "reactor"}
+  ]
+}

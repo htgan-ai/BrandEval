@@ -1,0 +1,17 @@
+{
+  "background_texts": [
+    "澄川科技发布一款家用储能设备后，少量用户反馈夜间提示音过大。公司已暂停相关固件推送，承诺在七天内公布测试记录、改进方案和复测时间。"
+  ],
+  "brand_name": "澄川科技（Synthetic Sandbox）",
+  "product_name": "HomeCell-S1",
+  "brand_llm_model": "offline",
+  "consumer_llm_model": "offline",
+  "competitor_llm_model": "offline",
+  "consumer_persona_code": "default",
+  "competitor_persona_code": "prospector",
+  "num_consumers": 6,
+  "num_competitors": 1,
+  "steps": 3,
+  "goal_bri_floor": 0.6,
+  "goal_nps_floor": 20.0
+}
