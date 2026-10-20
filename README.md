@@ -1,6 +1,6 @@
 # BrandEval: A Two-Track Multi-Agent Benchmark for Risk-Sensitive LLM Crisis Communication
 
-## EMNLP 2026
+## EMNLP 2026 [Arxiv](https://arxiv.org/abs/2610.25208)
 *Haotian Gan, Weidong Tang, Hanbin Sun, Yi Luo, Xintian Li, Jiayong Wang, WanYue Li, and Yudong Li*
 
 ![BrandEval Overview](assets/overview.png)
@@ -123,11 +123,14 @@ BrandSRD pairs each crisis context with a superior strategy and two suboptimal s
 ## Citation
 
 ```bibtex
-@inproceedings{gan2026brandeval,
-  title     = {BrandEval: A Two-Track Multi-Agent Benchmark for Risk-Sensitive LLM Crisis Communication},
-  author    = {Gan, Haotian and Tang, Weidong and Sun, Hanbin and Luo, Yi and Li, Xintian and Wang, Jiayong and Li, Wanyue and Li, Yudong},
-  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
-  year      = {2026}
+@misc{gan2026brandevaltwotrackmultiagentbenchmark,
+      title={BrandEval: A Two-Track Multi-Agent Benchmark for Risk-Sensitive LLM Crisis Communication}, 
+      author={Haotian Gan and Weidong Tang and Hanbin Sun and Yi Luo and Xintian Li and Jiayong Wang and WanYue Li and Yudong Li},
+      year={2026},
+      eprint={2610.25208},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2610.25208}, 
 }
 ```
 
